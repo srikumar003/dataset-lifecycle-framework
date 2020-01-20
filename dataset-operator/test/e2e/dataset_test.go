@@ -9,8 +9,8 @@ import (
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/types"
 
-	"github.com/IBM/dataset-lifecycle-framework/dataset-operator/pkg/apis"
-	datasetv1alpha1 "github.com/IBM/dataset-lifecycle-framework/dataset-operator/pkg/apis/com/v1alpha1/"
+	"github.com/IBM/dataset-lifecycle-framework/src/dataset-operator/pkg/apis"
+	datasetv1alpha1 "github.com/IBM/dataset-lifecycle-framework/src/dataset-operator/pkg/apis/com/v1alpha1/"
 )
 
 var (
